@@ -1,7 +1,7 @@
 ﻿################################################################################
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
-
+/packages
 /.vs/WindowLiveWpf/v16/Server/sqlite3
 /Live.CustomModel/bin
 /Live.CustomModel/obj
