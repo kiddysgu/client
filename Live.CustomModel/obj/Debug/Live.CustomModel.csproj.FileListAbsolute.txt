@@ -1,7 +1,0 @@
-F:\wpf\WindowLiveWpf\WindowLiveWpf\Live.CustomModel\bin\Debug\Live.CustomModel.dll
-F:\wpf\WindowLiveWpf\WindowLiveWpf\Live.CustomModel\bin\Debug\Live.CustomModel.pdb
-F:\wpf\WindowLiveWpf\WindowLiveWpf\Live.CustomModel\bin\Debug\Newtonsoft.Json.dll
-F:\wpf\WindowLiveWpf\WindowLiveWpf\Live.CustomModel\bin\Debug\Newtonsoft.Json.xml
-F:\wpf\WindowLiveWpf\WindowLiveWpf\Live.CustomModel\obj\Debug\Live.CustomModel.csproj.CopyComplete
-F:\wpf\WindowLiveWpf\WindowLiveWpf\Live.CustomModel\obj\Debug\Live.CustomModel.dll
-F:\wpf\WindowLiveWpf\WindowLiveWpf\Live.CustomModel\obj\Debug\Live.CustomModel.pdb
