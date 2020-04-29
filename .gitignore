@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/WindowLiveWpf/v16/Server/sqlite3
+/Live.CustomModel/bin
+/Live.CustomModel/obj
+/WpfApp1/bin
+/WpfApp1/obj
